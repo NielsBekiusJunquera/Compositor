@@ -7,5 +7,4 @@ En aquest GitHub personal podreu trobar el següents apartats:
 
 Dades de contacte:
 - nom i cognoms: Niels Bekius Junquera
-- email: nielscuter@gmail.com
-- adreça: 08012, Barcelona
+- instagram: @nbekius
